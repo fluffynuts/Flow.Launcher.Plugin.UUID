@@ -1,0 +1,12 @@
+{
+    "ID": "E303D5F3-C738-410A-BF7F-B34C0910F140",
+    "ActionKeyword": "uuid",
+    "Name": "UUID",
+    "Description": "a new plugin for Flow",
+    "Author": "fluffynuts",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/fluffynuts/Flow.Launcher.Plugin.UUID",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.UUID.dll"
+}
